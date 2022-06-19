@@ -1,1 +1,1 @@
-# temel-matematik-patika
+# www.patika.dev Temel Matematik Projesi
